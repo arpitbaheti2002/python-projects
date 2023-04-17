@@ -4,6 +4,10 @@ This Python program generates unique band names by combining the **user's birth 
 
 ## Usage
 
+Visit:
+[band-name-generator](https://replit.com/@ArpitBaheti1/band-name-generator?v=1)
+
+Or:
 To use this program, you will need Python installed on your computer.
 
 1. Clone this repository to your local machine.
