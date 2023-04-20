@@ -1,7 +1,7 @@
 # HCF-LCM calculator
 
 This is a simple HCF-LCM Calculator program built using Python. 
-The program allows users to input a query in the form of a string, specifying whether they want to calculate the Highest Common Factor (HCF) or the Lowest Common Multiple (LCM), followed by any number of numbers separated by spaces.
+The program allows users to input a query in the form of a string, specifying whether they want to calculate the Highest Common Factor (HCF) or the Lowest Common Multiple (LCM), followed by any number of numbers.
 
 ## Usage
 
