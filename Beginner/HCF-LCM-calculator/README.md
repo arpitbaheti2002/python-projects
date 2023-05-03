@@ -13,7 +13,8 @@ To use this program, you will need Python installed on your computer.
 
 1. Clone this repository to your local machine.
 2. Open your terminal and navigate to the cloned repository.
-3. Run the program by typing `python3 main.py` in your terminal.<br>
+3. Run the program by typing `python3 main.py` in your terminal.
+
 `Enter your query: hcf 12 18 24`<br>
 This query will calculate the HCF of the numbers 12, 18, and 24, and return the result.
 <br><br>
